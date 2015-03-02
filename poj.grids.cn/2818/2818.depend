@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1370695204 source:e:\acm\poj.grids.cn\2818\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
